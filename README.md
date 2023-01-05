@@ -21,3 +21,16 @@ The application allows to:
 ### Usage
 
 Type any number between 1 and 20 and click the "check" button. 
+
+### How to run locally
+
+* install dependencies
+```js
+npm install
+// or
+yarn install
+```
+* start local server on localhost:3000
+```
+npm run start
+```
