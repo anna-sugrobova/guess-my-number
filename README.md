@@ -28,7 +28,7 @@ Type any number between 1 and 20 and click the "check" button.
 ```js
 npm install
 // or
-yarn install
+yarn
 ```
 * start local server on localhost:3000
 ```
